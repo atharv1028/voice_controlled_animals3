@@ -1,0 +1,28 @@
+body
+{
+    font-family: 'Fruktur', cursive;
+}
+
+.header_div
+{
+ background-color: cornflowerblue;
+ color:crimson;
+}
+
+.main_div
+{
+    background-color: lightsalmon;
+}
+
+#Start
+{
+    border-color: black;
+    font-weight: bolder;
+}
+
+.copy_right_footer
+{
+    text-align: center;
+    color: limegreen;
+    font-size: 20px;
+}
